@@ -48,10 +48,6 @@ Seeking a **software developer, data analyst, or IT role** where I can contribut
 *Jun 2022 – Jul 2022*
 - Built an ML classification model for H-1B Visa Approval prediction using Python and Scikit-learn; performed web scraping, data wrangling, visualization, and model evaluation.
 
-### Cashier / Customer Service | Gas Station Retail | Thunder Bay, ON
-*2025 – Present*
-- Operated POS systems, handled cash transactions accurately, resolved customer concerns, and managed multiple tasks across rotating shifts in a fast-paced environment.
-
 ---
 
 ## 🎓 Education
