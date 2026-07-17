@@ -4,9 +4,9 @@
 📧 harmanjot17singh@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/harman-jot-singh) • [GitHub](https://github.com/harman7707)
 
-MSc Computer Science candidate (GPA 8.7/10, Lakehead University) with 1+ year of enterprise experience at Genpact, where I built internal tooling and supported a HighRadius platform implementation for Becton Dickinson (Fortune 500). My work spans full-stack web development, deep learning and computer vision, API-driven automation, and data analysis and reporting. Comfortable working across the stack, reading unfamiliar codebases, and applying AI-assisted development tools in daily workflows.
+MSc Computer Science candidate with 1+ year of enterprise experience at Genpact, where I built internal tooling and supported a HighRadius platform implementation for Becton Dickinson (Fortune 500). My work spans full-stack web development, deep learning and computer vision, API-driven automation, and data analysis and reporting. Comfortable working across the stack, reading unfamiliar codebases, and applying AI-assisted development tools in daily workflows.
 
-Seeking a **software developer, data analyst, or IT role** where I can contribute technically from day one. Eligible to work in Canada.
+Seeking a **software developer, data analyst, or IT role** where I can contribute technically from day one. 
 
 ---
 
@@ -66,28 +66,36 @@ Seeking a **software developer, data analyst, or IT role** where I can contribut
 
 ## 🚀 Key Projects
 
+
 ### 🔬 Diabetic Retinopathy Detection (Deep Learning & Grad-CAM)
 
 Lakehead University
+
 Achieved 94.82% validation accuracy and 0.95 F1-score using EfficientNetB1 transfer learning on the APTOS 2019 dataset; implemented Grad-CAM++ heatmaps for medical interpretability.
+
 Tech: Python, TensorFlow, Keras, OpenCV, Scikit-learn, EfficientNetB1, Grad-CAM++
+
 Repo: [View](https://github.com/harman7707/Diabetic-Retinopathy-Detection-Using-Deep-Learning-and-Grad-CAM)
 
-🗓️ Training Administration Portal
+### 🗓️ Training Administration Portal
 
 Genpact India Pvt. Ltd.
+
 Full-stack web app for training coordinators to create, schedule, and manage sessions with role-based authentication and conflict detection.
+
 Tech: JavaScript, HTML, CSS, SQL, Java
+
 Repo: [View](https://github.com/harman7707/Training-Administration-Portal)
 
-🚨 Accident Detection & Emergency Reporting System
+### 🚨 Accident Detection & Emergency Reporting System
 
 Amity University
-Real-time accident detection using VGG19 transfer learning on live video streams; automated emergency SMS alerts with GPS location via Twilio API and Geocoder.
-Tech: Python, Keras, VGG19, OpenCV, Twilio API, Geocoder, NumPy, Pandas
-Repo: [View](https://github.com/harman7707/Accident_Detection)
----
 
+Real-time accident detection using VGG19 transfer learning on live video streams; automated emergency SMS alerts with GPS location via Twilio API and Geocoder.
+
+Tech: Python, Keras, VGG19, OpenCV, Twilio API, Geocoder, NumPy, Pandas
+
+Repo: [View](https://github.com/harman7707/Accident_Detection)
 ## 📫 Get in Touch
 
 - Email: harmanjot17singh@gmail.com
