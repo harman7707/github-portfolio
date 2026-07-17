@@ -71,21 +71,21 @@ Seeking a **software developer, data analyst, or IT role** where I can contribut
 Lakehead University
 Achieved 94.82% validation accuracy and 0.95 F1-score using EfficientNetB1 transfer learning on the APTOS 2019 dataset; implemented Grad-CAM++ heatmaps for medical interpretability.
 Tech: Python, TensorFlow, Keras, OpenCV, Scikit-learn, EfficientNetB1, Grad-CAM++
-Repo: github.com/harman7707/Diabetic-Retinopathy-Detection-Using-Deep-Learning-and-Grad-CAM
+Repo: [View](github.com/harman7707/Diabetic-Retinopathy-Detection-Using-Deep-Learning-and-Grad-CAM)
 
 🗓️ Training Administration Portal
 
 Genpact India Pvt. Ltd.
 Full-stack web app for training coordinators to create, schedule, and manage sessions with role-based authentication and conflict detection.
 Tech: JavaScript, HTML, CSS, SQL, Java
-Repo: github.com/harman7707/Training-Administration-Portal
+Repo: [View](github.com/harman7707/Training-Administration-Portal)
 
 🚨 Accident Detection & Emergency Reporting System
 
 Amity University
 Real-time accident detection using VGG19 transfer learning on live video streams; automated emergency SMS alerts with GPS location via Twilio API and Geocoder.
 Tech: Python, Keras, VGG19, OpenCV, Twilio API, Geocoder, NumPy, Pandas
-Repo: github.com/harman7707/Accident_Detection
+Repo: [View](github.com/harman7707/Accident_Detection)
 ---
 
 ## 📫 Get in Touch
