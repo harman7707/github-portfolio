@@ -1,0 +1,4 @@
+remote_theme: pages-themes/time-machine@v0.2.2
+plugins:
+- jekyll-remote-theme
+title: Data Analyst
