@@ -1,6 +1,6 @@
 # Hi, I'm Harman Jot Singh 👋
 
-📍 Thunder Bay, ON, Canada
+📍 ON, Canada
 📧 harmanjot17singh@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/harman-jot-singh) • [GitHub](https://github.com/harman7707)
 
